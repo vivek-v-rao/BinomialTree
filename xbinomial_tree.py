@@ -1,4 +1,4 @@
-from option_pricing_crr import bs, crr_binomial_option
+from option_pricing import bs, crr_binomial_option
 import numpy as np
 import pandas as pd
 
